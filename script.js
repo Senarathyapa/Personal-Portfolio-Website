@@ -224,11 +224,11 @@ const projectsData = [
  
   {
     image: 'tutor.png',
-    tags: ['HTML','CSS','PHP','MYSQL'],
+    tags: ['HTML','CSS','JavaScript','PHP','MYSQL'],
     title: 'FCT -TUTOR',
-    desc: 'Built and ran a comprehensive API test collection for a public REST API, covering CRUD operations, edge cases, authentication headers, and response validation.',
-    github: 'https://github.com/Senarathyapa',
-    demo: '#'
+    desc: 'The Faculty Tutoring Center Management System is a web-based platform designed to simplify and automate tutoring center operations. It allows students to register for tutoring services online, manage courses, view announcements, and track performance while helping the faculty efficiently manage tutoring sessions and student support with reduced paperwork.',
+    github: 'https://github.com/Senarathyapa/FCT-TUTOR.git',
+    
   },
 ];
 
